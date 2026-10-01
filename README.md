@@ -34,3 +34,30 @@ LegalEase is an AI-powered legal document assistance project designed to help us
 
 ```bash
 pip install -r requirements.txt
+LegalEase/
+│
+├── api_core/
+│   ├── __init__.py
+│   └── ...
+│
+├── backend/
+│   ├── __init__.py
+│   └── ...
+│
+├── frontend/
+│   ├── app.py
+│   └── ...
+│
+├── services/
+│   ├── __init__.py
+│   └── ...
+│
+├── utils/
+│   ├── __init__.py
+│   └── ...
+│
+├── check_models.py
+├── requirements.txt
+├── .env.example
+├── .gitignore
+└── README.md
